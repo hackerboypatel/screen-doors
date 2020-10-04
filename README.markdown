@@ -1,4 +1,4 @@
-screen-doors
-==================
+screen-doors.
+==============================================
 
-Examples of a clean, CSS-only technique adding borders and roundy-corners.
+Examples of a clean, CSS-only technique adding borders and roundy-corners .
